@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DIALQGUE
 - 👀 I’m interested in competitive programming, artificial intelligence, and game developer.
-- 🌱 I’m currently learning building webhook with express.js
+- 🌱 I’m currently learning deep nearal network with time series data.
 - 💞️ I’m looking to collaborate on anything for education purpose.
 - 📫 How to reach me via personal Email: fang_za2000@hotmail.co.th
 
